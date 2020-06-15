@@ -1,0 +1,40 @@
+_repo: The-Dream-Coach_62328
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Parrish, Anne
+    aliases:
+    - Titzell, Josiah, Mrs.
+    - Titzell, Mrs. Josiah
+    birthdate: 1888
+    deathdate: 1957
+    gutenberg_agent_id: '51896'
+    url: http://www.gutenberg.org/2009/agents/51896
+    wikipedia: https://en.wikipedia.org/wiki/Anne_Parrish
+  - agent_name: Parrish, Dillwyn
+    alias: Parrish, George Dillwyn
+    birthdate: 1894
+    deathdate: 1941
+    gutenberg_agent_id: '51897'
+    url: http://www.gutenberg.org/2009/agents/51897
+    wikipedia: https://en.wikipedia.org/wiki/Dillwyn_Parrish
+description: With pictures & a map by the authors.
+gutenberg_issued: '2020-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62328'
+  lccn: '24022958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Dreams -- Juvenile fiction'
+- GITenberg
+tableOfContents: The dream coach -- The seven white dreams of the King's little daughter
+  -- Goran's dream -- A bird cage with tassels of purple and pearls (three dreams
+  of a Little Chinese Emperor) -- "King" Philippe's dream.
+title: The Dream Coach
+url: http://www.gutenberg.org/ebooks/62328
